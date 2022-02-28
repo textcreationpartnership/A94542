@@ -1,0 +1,232 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>High news for Hierusalem. I proclaim from the Lord of Hosts, the return of the Jewes from their captivity, and the building of the Temple in glory in their owne land.</title>
+            <author>Tany, Thomas, fl. 1649-1655.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1655</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 29 KB of XML-encoded text transcribed from 9 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A94542</idno>
+            <idno type="STC">Wing T153A</idno>
+            <idno type="STC">ESTC R184866</idno>
+            <idno type="EEBO-CITATION">43078181</idno>
+            <idno type="OCLC">ocm 43078181</idno>
+            <idno type="VID">151775</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A94542)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 151775)</note>
+            <note>Images scanned from microfilm: (Early English Books, 1641-1700 ; 2276:5)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>High news for Hierusalem. I proclaim from the Lord of Hosts, the return of the Jewes from their captivity, and the building of the Temple in glory in their owne land.</title>
+                  <author>Tany, Thomas, fl. 1649-1655.</author>
+               </titleStmt>
+               <extent>16 p.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[S.l. :</pubPlace>
+                  <date>1655?]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>"Theauroam Tannijahhh [i.e. Thomas Tany] ... March the 8. 1652."--P. 16.</note>
+                  <note>Publication information suggested by Wing.</note>
+                  <note>Reproduction of original in: Lambeth Palace Library, London, England.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Tany, Thomas, fl. 1649-1655 --  Prophecies.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-08</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-08</date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-09</date>
+            <label>Kayla Ondracek</label>Sampled and proofread</change>
+         <change>
+            <date>2010-09</date>
+            <label>Kayla Ondracek</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="part">
+            <pb n="1" facs="tcp:151775:1" rendition="simple:additions"/>
+            <head>HIGH NEWS FOR HIERUSALEM.</head>
+            <argument>
+               <p>I Proclaim from the Lord of Hoſts, the return of the Jewes from their Captivi<g ref="char:EOLhyphen"/>ty, and the building of the Temple in glo<g ref="char:EOLhyphen"/>ry in their owne Land.</p>
+            </argument>
+            <p>
+               <seg rend="decorInit">H</seg>Ear <hi>O ye Iewes my Brethren,</hi> I am a Jew of the Tribe of <hi>Reuben:</hi> but unknown to me till the Lord ſpake unto me by voice; whoſe voice I heard, but ſaw no appearance, and he changed my name from <hi>Thomas</hi> to <hi>The<g ref="char:EOLhyphen"/>aurau John,</hi> ſince the 23. of <hi>November</hi> 1649.</p>
+            <p>Now unto ye <hi>Iewes</hi> my Brethren am I ſent, to pro<g ref="char:EOLhyphen"/>claim from the Lord of Hoſts, the God of <hi>Iſrael,</hi> your <hi>Re<g ref="char:EOLhyphen"/>turne</hi> from your <hi>Captivity,</hi> in what <hi>Nation</hi> ſoever ye are <hi>Scattered.</hi> From thence ye ſhall be gathered into your owne Land: JERUSALEM <hi>ſhall be built in Glory, in her owne Land, even on her owne foundation,</hi> as the Lord hath ſhewn mee, though it ſeem never ſo impoſſible in the Judgement of Men; <hi>Yet by him that liveth for evermore, it ſhall be accompliſhed.</hi> And <hi>ye</hi> my <hi>Brethren,</hi> who ſay, Our Bones are dryed, and our hope is gone, and we are cleane cut off; As the Lord liveth, who brought our
+<pb n="2" facs="tcp:151775:2"/>
+Fathers out of the Land of <hi>Egypt,</hi> ſo Sure ſhall your <hi>Re<g ref="char:EOLhyphen"/>turne</hi> be. And ye my Brethren, ſhall be the <hi>Glory of all the Earth, and the ſear of Nations,</hi> For I ſaw the Spirit of the Lord go forth, to effect his owne Work, and for his owne Names ſake will <hi>He bring this great thing to paſs.</hi>
+            </p>
+            <p>Therefore my Brethren, Fear not; neither be afraid, for the Lord of Hoſts is your <hi>Leader,</hi> And I <hi>Theaurau<g ref="char:EOLhyphen"/>john,</hi> but now <hi>Theau Roam Tannijah</hi> your Captain Gene<g ref="char:EOLhyphen"/>ral and Leader, and alſo your Brother our <hi>Iah</hi> his Ser<g ref="char:EOLhyphen"/>vant.</p>
+            <p>Whereas this Proclamation was confirmed by <hi>Tho<g ref="char:EOLhyphen"/>mas</hi> being changed into <hi>Theauraujohn,</hi> ſo it is now af<g ref="char:EOLhyphen"/>firmed, and for Confirmation of the truth in this de<g ref="char:EOLhyphen"/>clared, I do ſubſcribe my name <hi>Theau Roam Tannijah</hi> Leader of the Peoples.</p>
+            <p>Now hear all Peoples and Nations; whereas I was commanded by my holy <hi>Iehovah,</hi> to retract from ſpeak<g ref="char:EOLhyphen"/>ing unto any Perſon for 34 dayes, and 21 of the ſame days to ſee no perſon, all which I have performed, and in that time I have received my pattern-way and work, as alſo this inſuing declarative: and as <hi>NOAH</hi> his Ark was his declared obedience from faith in fine received, which faith and obedience was and is madneſs unto the world; to which obedience the worlds ſentence was, What will this mad man do? will he cauſe this Veſſel to go upon the dry Land? and <hi>Paul</hi> was mad unto the peoples then, but the end is faiths Coronation: So now ſhall many Idiots ſay of this Inſert; but know yee peoples the ſtouteſt heart ſhall fail in this great day of Jubilee; for it is the high and mighty Revolve in Je<g ref="char:EOLhyphen"/>hovahs <hi>Frame,</hi> unto which ſacred, high and mighty name let all peoples bow.</p>
+            <div type="section">
+               <p>
+                  <pb n="3" facs="tcp:151775:2"/>
+UPon the 18 Scene at twelve a Clock in the night, the word of my Jehovah came unto me, ſaying, Write out this Edict, my Command, ſaying, Who a<g ref="char:EOLhyphen"/>mong the Inhabitants of <hi>Wales, England, Scotland, and Ireland,</hi> is for the returning unto <hi>Hieruſalem</hi> that good Land, given unto our Fathers ſo long ago? Now who amongſt the Inhabitants of the whole earth, will return unto <hi>Hieruſalem?</hi> Let an inſertation amongſt them be drawn, and their names ſubſcribed in a Roll of Parch<g ref="char:EOLhyphen"/>ment; for the Town, and City, and County, and let that Record be ready the twelfth of <hi>Iune</hi> next in our 1653. for after that Record is received and reviewed, there is to go forth another Edict, and after that ſecond Edict, there goeth forth the third Edict; and that is all my <hi>Iehovah</hi> and your <hi>Iah</hi> hath commanded me for to do, to lift up my voice three times for the gathering of the People. But it is not by multitude that we ſhall o<g ref="char:EOLhyphen"/>vercome, but it is <hi>Iehovah's</hi> might that ſhall bring us into our owne Land, and our ancient inheritance, even <hi>Samaria</hi> and the ſix Nations unto her regency belong<g ref="char:EOLhyphen"/>ing. For <hi>Iehovah</hi> is good and juſt, and faithful in all his wayes, who will do this great work, but not by men, but by his owne might ſhall we in his ſtrength reduce the ſeven Nations unto our royal obedience, that we may partake of the good of the <hi>Iehovah</hi>'s goodneſs promiſed, as we have taſted of his wrath for our Re<g ref="char:EOLhyphen"/>bellions.</p>
+               <p>So my Brethren this is to let you know the good that our <hi>Iehovah</hi> will bring us unto, even a Land that floweth with milk and honey, a fruitful Land, the glo<g ref="char:EOLhyphen"/>ry of the World, <hi>Iſraels</hi> inheritance: therefore ye be va<g ref="char:EOLhyphen"/>liant in walking in the ſtrength of obedience; that is,
+<pb n="4" facs="tcp:151775:3"/>
+the ſacrifice that ſanctifieth us in and to our <hi>Iah,</hi> for by obedience we are received into life. For my Bre<g ref="char:EOLhyphen"/>thren, obedience is the key that doth unlock the door into that goodly good Land here, and that goodly good heritanſial reſt in the celeſtial centre; where is rejoycing in full ſtrength in glory; which obedience is the inletting into that regency.</p>
+               <p>Thus ſaith <hi>Iehovah</hi> unto his Servant <hi>Theauroam,</hi> your King and High Prieſt by the holy anointing received in and by fire, and alſo the holy and ſanctifying Law and everlaſting Covenant. In fire I have received them from that terrible and everlaſting burnings, that is a conſuming fire unto all not purifyed. Therefore by fire am I purifyed, for to ſtand betwixt my <hi>Iehovah</hi> and you his people; for he hath conſecrated me in holy fire to ſtand betwixt you and himſelf, for to conſcene with him, and to declare unto you the things that he commandeth unto you. Now hear O ye people what your <hi>Iah</hi> commandeth, for by that name <hi>Iah</hi> will he be known to you. But you are commanded upon pain of death not to name <hi>Iehovah;</hi> for in and by that ſacred name <hi>Iehovh</hi> is he known unto me, being your High Prieſt the holy anointed of my <hi>Iehovah</hi> and your <hi>Iah;</hi> that is in and by his everlaſtingneſs, which is ſignified by his name <hi>Iah.</hi> It ſhall be thus O ye holy ones; for you ſhall be no more <hi>Iudah</hi> and <hi>Iſrael,</hi> or <hi>Iſrael</hi> and <hi>Iu<g ref="char:EOLhyphen"/>dah,</hi> but the holy Ones of your <hi>Iah</hi> and my <hi>Iehovah;</hi> for my <hi>Iehovah</hi> hath wrought his mighty work, for to bring them two <hi>Iudah</hi> and <hi>Iſrael</hi> into one ſtick in my hand. For my Lineage Genealogically runs from <hi>Io<g ref="char:EOLhyphen"/>nathan</hi> the ſon of <hi>Saul</hi> in <hi>Rehoboams</hi> line, that holds <hi>Iſ<g ref="char:EOLhyphen"/>rael,</hi> and alſo in the line of <hi>David,</hi> that holds <hi>Iudah;</hi> and both theſe conjoyned in <hi>Aarons</hi> houſe, and confirmed
+<pb n="5" facs="tcp:151775:3"/>
+in and by the High prieſthood, as by Genealogial de<g ref="char:EOLhyphen"/>monſtration in the true recorded Records: for the dark<g ref="char:EOLhyphen"/>neſs lies in <hi>Aaron,</hi> becauſe he ſtands reckoned in the Tribe of Levi, and he was and is of the Tribe of Reu<g ref="char:EOLhyphen"/>ben. Thus his Father was of Levi, but the woman was a Reubenite; and the Tribe's dignity doth carry it in the Statute Genealogically. Thus it was Reubens royalty in and over all the Tribes, that, whoſoever without exception, ſhould have a Wife given unto him out of the Tribe of Reuben, the man ſo receiving loſt his name, and his inheritance was recorded under Reu<g ref="char:EOLhyphen"/>ben, and all his Children were Reubenites for ever. Thus the Man was both diſabled in eſtate, and name, and ſeed, untill the Jubilee came, and then the Land returned unto the owne Tribe by an inheritanſial Sta<g ref="char:EOLhyphen"/>tute made unto that conjunction. So now if you ſay, that <hi>Saul</hi> was King in <hi>Iſrael</hi> and <hi>Judah;</hi> Lo, Behold, his Son <hi>Theauroam Tanniahhh;</hi> and if you ſhall ſay, that we had <hi>David</hi> our King the beloved of our <hi>Jah,</hi> Lo, <hi>Theauroam Tanniahhh his Son:</hi> and if you ſhall ſay, that <hi>Ahharon</hi> or <hi>Aaron</hi> was our Fathers Prieſt, the holy anointed of our <hi>Jah,</hi> Behold his <hi>Son Theauroam Tanni<g ref="char:EOLhyphen"/>ahhh</hi> in his Fathers Fathers Fathers ſtead, as our <hi>Jah</hi> had promiſed, that <hi>David</hi> ſhould have a Son to ſtand before his Throne in the glory of his Majeſty.</p>
+               <p>Now hear, O my People, Thus ſay I <hi>Theauroam</hi> King of the ſeven Nations, and High-Prieſt by the holy A<g ref="char:EOLhyphen"/>nointing by fire received, and in fire I have received the holy Law and high and holy Covenant; and by the ſame high and holy and pure divine and ſacred A<g ref="char:EOLhyphen"/>nointing, am alſo confirmed Recorder unto our Tribes, being now thirteen; as alſo Captain general, and your Leader unto <hi>Hieruſalem</hi> under my ſupream Lord &amp; King
+<pb n="6" facs="tcp:151775:4"/>
+                  <hi>Jehovah,</hi> there in the place that my <hi>Iehovah</hi> my ſupream hath ſet me in by his holy anointing. I <hi>Theauroam</hi> your Captain General, do will and command that ye ob<g ref="char:EOLhyphen"/>ſerve this my command, that ye live honeſtly unto all, and in a peaceable preſervable way unto this State where ye now live: And although I go Leader by an undu<gap reason="illegible" resp="#UOM" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>ted right, King and ſupream Vicegerent upon and over my ſeven Nations, yet am I in this Nation the meaneſt ſubject. My Brethren, know that humility is all the foundations, and the greateſt glory if it be viewed with true ſight; as you ſee a fair or rare houſe builded, you look upon its high ſtructure, and that you praiſe; but you do not then ſee its greateſt glory, which is its baſis or foundation which is in the earth; that, even that is the houſes true glory, for it is the ſtrong ſtrength that beareth the houſes frame. O my Brethren! if that laſt State were but viewed with true eyes, you would become lower, and then you would become truly high; and then are ye our <hi>Jah</hi>'s his lovelineſs; for height without a ſure ſarbaxed ſtrength in the ſoale of it, can<g ref="char:EOLhyphen"/>not continue: So now I have done all, but uttering my Voice. This is the firſt, <hi>Wales;</hi> becauſe in her true right ſhe is regent over <hi>England;</hi> for the Natives are in <hi>Wales,</hi> and this is the firſt houſe in this Land I am command<g ref="char:EOLhyphen"/>ed to call unto, which is the houſe of <hi>Darby.</hi> Who in or of the houſe of <hi>Darby</hi> will go unto <hi>Hieruſalem,</hi> and build the Temple of our <hi>Jah</hi> the great <hi>Jehovah?</hi> Who in or of <hi>Pembrook</hi> and <hi>Montgomery</hi> will go up? Who of <hi>Cartha<g ref="char:EOLhyphen"/>margain?</hi> Who in <hi>Brecnack</hi> will go up unto <hi>Hieruſalem,</hi> and build the Temple of our <hi>Jah</hi> and the great <hi>Jeho<g ref="char:EOLhyphen"/>vah?</hi> Who in <hi>Radnal</hi> will go up? Who in <hi>Limpſter</hi> will go up? Who in <hi>Cardiff</hi> will go up, and build the Tem<g ref="char:EOLhyphen"/>ple in <hi>Hieruſalem?</hi> Who in all and of all, <hi>Wales</hi> and <hi>Eng<g ref="char:EOLhyphen"/>land,</hi>
+                  <pb n="7" facs="tcp:151775:4"/>
+and <hi>Scotland,</hi> and <hi>Ireland,</hi> and who in the whole Earth will go up unto <hi>Hieruſalem,</hi> and build in the Tem<g ref="char:EOLhyphen"/>ple unto our <hi>Jah</hi> the great <hi>Jehovah?</hi> let them ſubſcribe their names as is above ſaid, and the Records ſhall be re<g ref="char:EOLhyphen"/>ceived in every County, and ſo drawn into Rolls; for there is to be three ſubſcriptions. For whoſoever will go, whoſe heart <hi>Jehovah</hi> hath touched, fear not to ſub<g ref="char:EOLhyphen"/>ſcribe, leſt you purchaſe a blot unto your Houſe, and your Family be forced to bear your ſhame: for who<g ref="char:EOLhyphen"/>ſoever will go, ſhall not be left behinde, neither Man, Woman, nor Children For <hi>Jehova</hi> and my <hi>Jah,</hi> our <hi>Elokkim</hi> will deſtroy this Land utterly: See unto your ſelves whoſe faces are ſet toward <hi>Jeruſalem</hi> temporal, I ſpeak plain, in the Land of <hi>Judeah</hi> and in the City of <hi>Samaria,</hi> but now <hi>Samaritaniah.</hi> Wrote by me, and gi<g ref="char:EOLhyphen"/>ven under our Signatory royal in our owne Territo<g ref="char:EOLhyphen"/>ries, yet in this Land ſtooping unto all Signets or Sig<g ref="char:EOLhyphen"/>natories,</p>
+               <closer>
+                  <signed>Theauroam Taniahhh Leaders of the Peoples unto <hi>Hieruſalem.</hi>
+                  </signed>
+               </closer>
+            </div>
+            <div type="section">
+               <p>Hear O Earth, and the Inhabitancing of Engliſh earth, Thus ſaith <hi>Jah,</hi> thy <hi>Sions</hi> King, and <hi>Hieru<g ref="char:EOLhyphen"/>ſalems</hi> glory; Hear O <hi>Sion</hi> in all the Angle points in the North, in which thou art a ſojourner, a Pilgrimage captive in the thick Idolatrous Idolatry. Thus ſaith thy <hi>Jah,</hi> that he will cauſe thy Captivity for to return, and thy return ſhall be unto thy ſacred <hi>Jehovah;</hi> which turn thy Prieſt hath taken, and it is Embuildatory for the whole Houſe, both of <hi>Judah</hi> and <hi>Iſrael,</hi> and thy turning ſhall be into receiving the Law thy light, thy
+<pb n="8" facs="tcp:151775:5"/>
+land, the inheritance of thy Fathers the Sons of <hi>Abra<g ref="char:EOLhyphen"/>ham, Iſaac,</hi> and <hi>Jacob,</hi> and <hi>David</hi> your King ſhall lead you.</p>
+               <p>This is the word of <hi>Jehovah</hi> unto <hi>Theauroam Tanni<g ref="char:EOLhyphen"/>jah:</hi> Hear O ye people of the ancient Covenant; for you hath <hi>Jah</hi> an everlaſting controverſie with the In<g ref="char:EOLhyphen"/>habitants of the earth, for in righteouſneſs our <hi>Jehovah</hi> will do judgement, and in our <hi>Jah</hi> is the purity in truth demonſtrated in his everlaſting mercy. In this ſhall it appear and be declared, in his taking into Covenant the ſeed of the rejected Parents, our Fathers the ancient <hi>Iſ<g ref="char:EOLhyphen"/>raelites.</hi>
+               </p>
+               <p>Now thus ſaith your <hi>Jah,</hi> but my <hi>Jehovah;</hi> for in that high and ſacred great and holy Name will <hi>Jehovah</hi> be known unto me onely, being I am his High-Prieſt; but unto ye his people, by his holy name <hi>Jah</hi> will he be known, in his everlaſting mercy will he be named a<g ref="char:EOLhyphen"/>mongſt his people and upon his people, all which long ſuffering lies in his ſAcred name <hi>Jah:</hi> therefore be ye mindful that ye do not name the great and high and mighty, and ſacred name <hi>Jehovah,</hi> leſt he conſume you in and for your diſobedience; but <hi>Jah</hi> is your name for to call upon, or <hi>Elokkim,</hi> or <hi>A<gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ove,</hi> or <hi>Eloah,</hi> or <hi>Al,</hi> or <hi>Addoniel,</hi> or <hi>El,</hi> or <hi>Am,</hi> or <hi>Hemanuel,</hi> or <hi>Bethem.</hi> Theſe be the names O <hi>Iſrael</hi> that thou ſhalt name; for the Name God thou ſhalt ſay <hi>Eloah,</hi> and for Chriſt <hi>Bethem,</hi> and for Jeſus <hi>Hemanuel.</hi> Them are thy names O <hi>Iſrael,</hi> for thou ſhalt not name in thy mouth a ſtrange God. Neither ſaith your <hi>Jah</hi> will he be called upon by the name of an Heathen God, neither anſwer thee O <hi>Iſrael</hi> but in his own preſcript; therefore you who look for your deliverence and <hi>Hieruſalems</hi> glory, labor to forget the names of the Gods of the Heathen: for this Land
+<pb n="9" facs="tcp:151775:5"/>
+is an abhorration with all its faſhions unto your <hi>Jah,</hi> ſhall be deſtroyed as in the day of <hi>Sodom.</hi>
+               </p>
+               <p>Now thus ſaith your <hi>Jah,</hi> Hear O <hi>Iſrael</hi> my People, and <hi>Tannijahhhs</hi> houſe whom I have tyed ye my People into. For the houſe of <hi>Tannijahhh</hi> being builded, ye my People are the builders &amp; the building, that being built, then the Covenant with <hi>David</hi> is performed, the light in <hi>Iſrael</hi> is reſtored, and mercy unto <hi>Saul</hi>'s houſe is from me <hi>Jah</hi> extended, for to take in again my ancient King, old <hi>Iſraels Saul:</hi> for his was the houſe, and <hi>David</hi> but a familie in that houſe. So now thus ſaith my <hi>Jah</hi> and my <hi>Jehovah,</hi> that in <hi>Tannijahhh</hi> is the houſe builded, the families rectified, the promiſe made good both in mer<g ref="char:EOLhyphen"/>cy and judgement. Thus in judgement I caſt off <hi>Saul,</hi> to receive in my mercy his ſeed in my own houſe. In mercy I gave <hi>David</hi> unto my people, that in my mercy I might refine his ſeed by puniſhing them until the Fa<g ref="char:EOLhyphen"/>milies were fitted for to come into the houſe my build<g ref="char:EOLhyphen"/>ing. For O ye Sons of men, my waies are not like your waies; for I am <hi>Iah</hi> in my Everlaſtingneſs. I act my waies, confounding man and the wiſeſt beauty in the Sons of men. For I AM <hi>Hallelujah</hi> in my ſelf, but in my outgoings is motion in its variety intenſiouſly in<g ref="char:EOLhyphen"/>tended, and extended beyond the worm man his find<g ref="char:EOLhyphen"/>ing out. <hi>Eck</hi> and <hi>Kleatt.</hi>
+               </p>
+               <p>Yet thus ſaith our <hi>Iah,</hi> that in the true Theologie <hi>Saul</hi> and <hi>David</hi> do make one man. Thus <hi>Saul</hi> is the out<g ref="char:EOLhyphen"/>ward appearance called man, on which ſtature all out<g ref="char:EOLhyphen"/>ward eyes do look, and <hi>David</hi> is the intenſe wiſdome in that appearance, ſeated within for the guidance of the outward figure; for the outward figure is weak, and the <hi>David</hi> is the ſtrength within, which is <hi>Iah Elokkim</hi> everlaſting in prevalency; for the <hi>Bethem</hi> is the Re<g ref="char:EOLhyphen"/>finer
+<pb n="10" facs="tcp:151775:6"/>
+by Rectification in the outward figure to bring it into its living intenſe Nature. So being done, then be<g ref="char:EOLhyphen"/>hold <hi>Jehovah</hi>'s Theologie etymologically expreſſed in that figure man. Then <hi>Saul</hi> and <hi>David</hi> are one man, and the firſt Spirit in the ſecond <hi>Adam</hi> is again made one; for the dead <hi>Adam</hi> is made the living <hi>Hemanuel Bethem.</hi> My Brethren you cannot fathom my Theologie, for it is beyond Divinity; for it is <hi>Via in ſe;</hi> that is, <hi>Jah</hi> his King is <hi>Hemanuel</hi>'s looking glaſs in <hi>omnia via:</hi> for none fathoms the heart of an anointed King, but the Anointer, who is my <hi>Jehovah</hi> and your <hi>Jah,</hi> and in us both <hi>Hema<g ref="char:EOLhyphen"/>nuel.</hi>
+               </p>
+               <p>
+                  <hi>This following Edict is engraven in Braſs, and to be ſent into</hi> Holland.</p>
+            </div>
+            <div type="section">
+               <head>The Edictory Unto all the <hi>Jewes</hi> the whole earth over, Greeting.</head>
+               <opener>
+                  <salute>Ye my Brethren,</salute>
+               </opener>
+               <p>NOw thus ſaith I <hi>Theauroam Tannijah</hi> the great King of the ſeven Nations, that <hi>Jehovah</hi> my ſupream Lord and Maſter hath commanded me not to ſpare the diſobedience of any or all, and I have ſworn in URIM
+<pb facs="tcp:151775:6"/>
+and THUMMIM, that whoſoever doth wilfully diſ<g ref="char:EOLhyphen"/>obey my command being <hi>Iehovah</hi>'s General in this great Iourney unto <hi>Hieruſalam,</hi> he ſhall be put to death. I have ſworn by my Majeſty being King of the ſeven Nations, by the ſacred and holy anointing, from <hi>Ie<g ref="char:EOLhyphen"/>hovah</hi> my King and Law-giver, that I will not ſpare any that doth tranſgreſs wilfully my command, the holy Covenant and <hi>Jah</hi> his pure and undefiled LAW; which LAW and Covenant I received in Fire, and eve<g ref="char:EOLhyphen"/>ry Letter, Syllable, and Peat in burning flames of re<g ref="char:EOLhyphen"/>vengeful Fire: Therefore ſee unto your ſelves before you do preſume to enter into Covenant with your <hi>Iah</hi> but my <hi>Iehovah;</hi> For <hi>Iah</hi> is your pure, and proper, and peculiar word or name, but <hi>Iehovah</hi> is my Heritanſial ingraftment, becauſe I am <hi>High-Prieſt</hi> from <hi>Iehovah</hi> my ſupreme King. Now thus ſaith your <hi>Iah</hi> but my <hi>Iehovah,</hi> that the Houſe of SAUL and IONATHAN, and RE<g ref="char:EOLhyphen"/>HOBOAM the Son of IONATHAN and the fami<g ref="char:EOLhyphen"/>ly of DAVID, theſe now all lye in the Prieſthood of AARON, but AHHARON: and in any of theſe Lines who do carry the Majeſty of royalty, they do carry it into REUBEN; thus, becauſe REUBEN is the royal <hi>Tye</hi> in all the families, as was given by me <hi>Iah</hi> unto MOSES AHHARON's brother, under whoſe conduct your Fathers returned. For though they were taken away, yet their Edicts directed the People. Now this was Reuben's dignified royalty upon and over all the <hi>Tribes</hi> none excepted; for whoſoever ſhould have to wife a daughter of the <hi>Tribe</hi> of REUBEN, without ex<g ref="char:EOLhyphen"/>ception the man and his inheritance were recorded in REUBENS Genealogie, ſo that the woman did bear the mans right hereditatorily, and all the Children were Reubenites for ever; and thus ſtands AARON wrong<g ref="char:EOLhyphen"/>ed,
+<pb n="12" facs="tcp:151775:7"/>
+being reckoned in and from the Tribe of LEVI, and he is REUBEN; and from him, &amp; to him I <hi>Iehovah</hi> hath tyed all the Fathers beforenamed. And thus his name doth bear whom I have choſen your Leader, THE AU ROAM TAN TAN is his own name heredi<g ref="char:EOLhyphen"/>torily. THE Ep is light, that ſtands for AHHARON, that was my anointed <hi>Prieſt,</hi> as he now is this fourteenth day being Sabbatty named <hi>Iehotial,</hi> that is the name of our Sabatty. AU doth ſignifie <hi>David,</hi> for he feared be<g ref="char:EOLhyphen"/>fore me. RO ſignifies my mercy that is unto Tranſgreſ<g ref="char:EOLhyphen"/>ſors, that was SAULS houſe; the <hi>Stemmes</hi> aforenamed do ſignify that in my name AM, that is, your Leaders conjunct, or cloſing up all; and in that name AM, I have unto <hi>Sauls</hi> houſe declared my everlaſtingneſs, in paſſing by their Tranſgreſſions for my holy name ſake, becauſe I am <hi>Iah,</hi> everlaſting mercy &amp; goodneſs to my <hi>houſe</hi> my holy Ones: for now it ſhall not be no more the houſe of SAUL and the family of David, but they two are become one in my ſtrength their <hi>Ingrafter;</hi> and it ſhall be no more ſaid the <hi>Houſe</hi> of <hi>Iſrael</hi> and the <hi>Houſe</hi> of <hi>Iu<g ref="char:EOLhyphen"/>dah,</hi> neither the <hi>Houſe</hi> of <hi>Iudah</hi> and the <hi>Houſe</hi> of <hi>Iſrael,</hi> but the Lords <hi>Houſe</hi> his <hi>holy</hi> Ones. This is tranſcribed on Sabbatty, becauſe the inſert is holineſs it ſelf.</p>
+               <closer>
+                  <signed>
+                     <hi>Signed by me</hi> Theauroam Tannijahhh, <hi>King of the ſe<g ref="char:EOLhyphen"/>ven Nations, and Captain General under my Maſter</hi> Jeho<g ref="char:EOLhyphen"/>vah, <hi>and High-Prieſt and Leader of the Peoples unto</hi> HIE<g ref="char:EOLhyphen"/>RUSALEM <hi>my ancient ſeat Royal, the City of my Father David and my Father</hi> Rehoboam, <hi>from</hi> Jonathan, <hi>the Son of</hi> Saul, <hi>and from</hi> AHHARON <hi>my</hi> GENELUSTRA<g ref="char:EOLhyphen"/>TED in CENEALOGY.</signed>
+                  <dateline>
+                     <hi>Dated in</hi> 
+                     <date>January (ſo called) <gap reason="illegible" resp="#UOM" extent="1 word">
+                           <desc>〈◊〉</desc>
+                        </gap> my fourteenth day, being Sabbatty.</date> Given under our Sig<g ref="char:EOLhyphen"/>atory royal in <date>the year 1652,</date> London.</dateline>
+                  <salute>Unto the Synagogue of the Jews in <hi>Amſterdam.</hi>
+                  </salute>
+               </closer>
+               <byline>By Recordat <hi>THEAUROAM TANNIJAHH.</hi>
+               </byline>
+            </div>
+            <div type="section">
+               <pb n="13" facs="tcp:151775:7"/>
+               <head>The Epiſtle Edictory upon the 21 Scene or day.</head>
+               <p>ANd the word of <hi>Jah</hi> ſpake unto me, ſaying, Hear O my People, even ye whom I have choſen, ye holy Ones, this is my command upon you, That ye do forſake all the faſhions of the <hi>Gentiles,</hi> in which ye have ſo long delighted your ſelves, with all their deceitful Sorceries and Wichcrafts, ye ſhall not follow them in any thing that they do, for they are the Children of my wrathful curſe; therefore follow not their waies, leſt ye be partakers of their plagues that I <hi>Jehovah</hi> will bring upon them, for to cut off their memorial from off the Earth. Therefore hear and obſerve, This is thy manner in thy Salutations; which Salutations of the Gentiles is a Monſter-begetting, or a begetting-Mon<g ref="char:EOLhyphen"/>ſter. Thus ſhall it be amongſt ye my People, that when ye meet one another, as when the man meeteth with the woman his friend or acquaintance, he ſhall not put off his Hat unto her, as the <hi>Gentiles</hi> do in their meet<g ref="char:EOLhyphen"/>ings, but thus ſhall it be amongſt ye my people, ye ſhall not kiſs one another as the Gentiles do, for that I loath ſaith your <hi>Jah:</hi> But thus ſhall ye act in your meetings or Salutations; The woman ſhall ſtand upright if her body wil bear it, and with her hands hanging down upon her hips, that is the woman's poſture alwaies and all times; if the womans body will not bear uprightneſs, then ſhe is but to move that way preſcribed; the man in his Salute unto the woman, when he meeteth her, he ſhall a little bow himſelf in his head and body a little, and he
+<pb n="14" facs="tcp:151775:8"/>
+ſhall lay both his hands upon the womans arms above the elbows, and ſo ſhall bear the woman a little on his left ſide; and this is thy manner O <hi>Iſrael.</hi> Now the reaſon why I <hi>Jah</hi> do command this manner in Saluta<g ref="char:EOLhyphen"/>tion, it is this: for by kiſſing is cauſed a fermentation whereby the body is diſeaſed or diſquieted by the breath received from any one or other; for the breath hath in its intenſe Nature an intrinſecal begetrix in its includement, for the breath is abſtracted from all breathings, and is included into one abſtract; and if either the man or the woman be not ſtable in them<g ref="char:EOLhyphen"/>ſelves, then into the ſtrength of the others breathing there is a contraction in its ſelf, though the party be never moved in their intenſes; that is, his or her mo<g ref="char:EOLhyphen"/>tion was never awakened by it. For breathing in one another and to one another is the mother Begetrix of all luſtful brutiſhneſs. So much for your Salutes or kiſſing one another.</p>
+               <p>Now the man ſhall not kiſs his ſiſter his wife (for ſhe is his ſiſter) but in the inſealing his ſeed delivered; and no more for to know his ſiſter till the Child be twelve Months or twelve Moons old; for ye muſt be a wiſe people before your <hi>Jah,</hi> who is holineſs it ſelf. And when the man doth meet with man his friend, he ſhall not put off his hat unto him, as the <hi>Gentiles</hi> do; but he ſhall lift up his right hand in the wriſt-joynt, that is in the hand point, and bow a little as in the womans pre<g ref="char:EOLhyphen"/>ſcription. Now the reaſon of the Man's lifting up his right hand it is this, that he doth in the truth in the up<g ref="char:EOLhyphen"/>lifting his hand rejoyce to ſee his Brother in health; and he bowing his head doth acknowledge that it is the mercy of <hi>Jah</hi> to bring them together in health, for to refreſh one the other by their well ſight. This is for
+<pb n="15" facs="tcp:151775:8"/>
+men be they what they will, unleſs it be unto the heads of the Tribes, and that preſcript is to be in its time and place in obſervance, but this is now, even now this pre<g ref="char:EOLhyphen"/>ſent required to be obſerved and obeyed of all, ye the people of our <hi>Elokkim,</hi> and theſe be the Edictories com<g ref="char:EOLhyphen"/>manded by your <hi>Jah</hi> and my <hi>Jehovah.</hi>
+               </p>
+               <p>The next is, why the woman ſhall ſtand upright in her ſtature and the man bow unto the woman, and lay<g ref="char:EOLhyphen"/>ing both his hands upon the womans arms, that is the joynt above the elbow, it is thus; The womans up<g ref="char:EOLhyphen"/>rightneſs is the mans glory; for the woman is the man's ſtrength in the illuſtration of his ſeed; for of one man by the woman are many branches illuſtrated; ſo that the man being one unity, by the woman is made multiplicity. That is one reaſon.</p>
+               <p>But here is the main. For the ſtanding of the wo<g ref="char:EOLhyphen"/>man upright is not the intention. For I ſpeak things in the truth, which is the womans being upright, as in that demonſtration ſhe ought to be; that even that is the mans glory and the womans praiſe of excellency. Now the mans laying his hands upon the womans arms, it is this, he ſhews that in effect, that the upright<g ref="char:EOLhyphen"/>neſs in the woman was and is the mans ſtrength; and therefore he doth acknowledge it before his <hi>Jah</hi> in his bowing unto him, by the bending of his face downward</p>
+               <p>Now the man taking the woman unto his left ſide, it is thus, becauſe that he doth declare that although the woman is his glory, yet the woman is his weakneſs alſo; for by woman man is made very weak in his intenſiality, that word lies hid. But thus ſhe is the mans weakneſs, for the man bowing upon the woman, the man becomes very weak in himſelf, for to give his life an outlet in iſſue by the woman his weakneſs; ſo
+<pb n="16" facs="tcp:151775:9" rendition="simple:additions"/>
+you ſee the woman is mans glory and man's weakneſs: Alſo this figure is allegorically alluſive unto an high<g ref="char:EOLhyphen"/>er illuſtrative; ſo that the woman doth illuſtrate the man, by the mans becoming weak upon the woman.</p>
+               <p>The next is, thou ſhalt not lye with thy Siſter thy Wife; but onely for generation, no not in bed; for it is a bewitching evil, that will prove a ſore ſnare unto you both, for it is fire unto wood; but in all holy cha<g ref="char:EOLhyphen"/>ſtity in purity, and purity in chaſtity ſhall you walk. In wiſdoms way ſhall you act all your doings ſaith my <hi>Jehovah</hi> and your <hi>Jah,</hi> your everlaſting Saviour; for your <hi>Jah</hi> will have you ſo wiſe in your peace that the cauſe ſhall be removed, ſo that there can be no effect pro<g ref="char:EOLhyphen"/>duced when there is no cauſe ſtated.</p>
+               <closer>
+                  <signed>Per me <hi>Theauroam Tannijahhh</hi> High Prieſt.</signed>
+               </closer>
+            </div>
+            <trailer>The end of the firſt Edict unto the People my houſe our <hi>Jah</hi> his holy ones.</trailer>
+         </div>
+      </body>
+      <back>
+         <div type="seal">
+            <p>Let none ſeek to ſpeak with me, for into ſilence I am returning, to be taught a pure Language; for confirmation of this Inſert, I have ſealed this Edict with our Se<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>l Signatory, <hi>March</hi> the <hi>8. 1652.</hi>
+            </p>
+            <p>
+               <hi>Let none deſ<g ref="char:EOLhyphen"/>piſe the day of ſmall things, for ſmall things proceed from the greateſt root.</hi>
+            </p>
+            <figure>
+               <figDesc>seal</figDesc>
+            </figure>
+         </div>
+      </back>
+   </text>
+</TEI>
